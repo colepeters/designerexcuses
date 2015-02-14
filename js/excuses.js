@@ -22,7 +22,7 @@
     "The users will never notice that",
     "The users might not notice it, but they’ll feel it",
     "These brand guidelines are shit",
-    "You wouldn’t get it, it's a design thing",
+    "You wouldn’t get it, it’s a design thing",
     "Jony wouldn’t do it like this",
     "I don’t think that’s very user friendly",
     "That’s not what the research says",
